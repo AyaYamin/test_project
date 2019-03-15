@@ -1,0 +1,19 @@
+import React,{Component} from 'react';
+
+
+
+
+
+export default class Attendance extends React.Component{
+    
+
+
+
+    render(){
+        return(
+            <div>
+                
+            </div>
+        )
+    }
+}
